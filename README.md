@@ -23,7 +23,7 @@ And the following are optional:
 ### Install the integration
 
 ```shell
-git clone git@github.com:MihaiBojin/zapier-integration-create-hashnode-story.git
+git clone https://github.com/CodingCatDev/zapier-integration-create-hashnode-story.git
 cd zapier-integration-create-hashnode-story
 npm install
 ```
